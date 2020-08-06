@@ -1,9 +1,10 @@
+<img src = "https://raw.githubusercontent.com/jenineharris/foundation-biostat-2020/master/foundations-hex-sticker-no-date.gif" align = "right"> 
+
 # Brown School
 # Washington University in St. Louis
 # Fall 2020 
-## Foundations of Public Health: Biostatistics 
+## Foundations in Public Health: Biostatistics 
 ## S55 MPH 5003 
-
 
 ### Course information: 
 

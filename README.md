@@ -1,1 +1,1 @@
-# foundation-biostat-2020
+Foundations in Public Health: Biostatistics

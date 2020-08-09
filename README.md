@@ -135,21 +135,9 @@ Alternate readings will be provided each week (except the first 4 weeks since th
 
 ### VII.	ORGANIZATION OF COURSE
 
-This class is flipped! This means that, instead of lecturing over zoom, the lectures will be pre-recorded and assigned to watch outside of class. Then, in-class, we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the in-class portion will start with one or two of the following: 
+This class is flipped! This means that, instead of lecturing over zoom, the lectures will be pre-recorded and assigned to watch outside of class. Then, in-class, we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first hour will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second hour will be a check-in on the work from the prior week and occasionally a demo from, or Q & A on, the video(s) of the week. During the last hour of each week, students will be placed in zoom rooms with a few other students and the instructor  will go from room-to-room to answer questions. At the same time, the TA (Laura Brugger) will be in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
 
-* Check-in on the work from the prior week 
-* A peer-review activity 
-* A paired speak-R activity 
-* A group stats challenge 
-* Demo or Q & A on the video(s) of the week 
-
-Followed by: 
-
-* Time to work on the new challenge 
-
-During the last hour of each week, students will be placed in zoom rooms with a few other students and the instructor  will go from room-to-room to answer questions. At the same time, the TA (Laura Brugger) will be in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045)
-
-On other weeks we will have a course book club, project work time, and final project reviews. 
+On other weeks we will have a course book club, project work time, and final project discussion and peer reviews. 
 
 The course work is designed to introduce you to statistical approaches common in the social sciences. Most weeks you will have time to start the weekly exercises in class. In addition to the hours you spend in class each week, expect to spend 5-7 hours each week reading, reviewing course materials, and working on exercises. The total course commitment should be about 10 hours/week on average over the course of the semester. 
 
@@ -169,13 +157,19 @@ The instructor will facilitate the student's learning experience through demonst
 
 ### IX.	COURSE OUTLINE AND GRADING
 
-During the course you will earn points by completing peer reviews, individual challenges, book club, an individual project, and a final exam. Five percent of your grade is also based on professionalism which includes overall professionalism and participation in the group work for book club. Your book club teammates and TA will be consulted in the calculation of the professionalism grade. At the end of the course, the percent you have earned will translate into a letter grade. Note that your final score is not rounded up, so you have to reach at least the percentage shown to earn the grade.
+During the course you will earn points by completing individual projects and a book club discussion with a group. Five percent of your grade is also based on professionalism which includes participation in the course Discussion Board and/or the zoom room along with the group work for book club. Your book club teammates and TA will be consulted in the calculation of the professionalism grade. At the end of the course, the percent you have earned from the individual projects, book club, and professionalism will translate into a letter grade. Note that your final score is not rounded up, so you have to reach at least the percentage shown to earn the grade.
 
-#### A typical day:
+#### What will happen during scheduled class time each week:
 
-* Individual appointments (1 hour) [only people with appointments attend this]
-* Check-in/warm-up/Q&A (1 hour)
-* Work time for challenges (1 hour)
+* Individual appointments (1 hour) 
+    + Only people with appointments attend this, sign up for appointments on the course discussion board 
+    + Highly recommend at least 2 individual appointments per semester 
+* Check-in/warm-up/Q&A (1 hour) 
+    + zoom in to class to discuss previous exercises, ask questions
+* Work time for challenges (1 hour) 
+    + zoom in to class to work in a zoom room with a few others on the week's exercises
+    + Dr. Harris will go from zoom room to zoom room to answer questions and help out 
+    + Laura will be available for one-on-one meetings during this time at her zoom room 
 
 #### Weighting: 
 
@@ -188,7 +182,9 @@ During the course you will earn points by completing peer reviews, individual ch
 
 *What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
 
-*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1500 word paper discussing the topics from the book club night. This paper is due by the final course meeting on `r fob2020$week15[1]`.
+Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board fun thread.
+ 
+*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1500 word paper discussing the topics from the book club night. This paper is due by the final course meeting on December 10th.
 
 *What happens if my statistics in the wild is late?* Your score will be 0. Start early so that even if you have difficult life event(s) late in the semester you still have something to submit! 
 
@@ -209,15 +205,15 @@ The highest threshold you reach will be your earned grade:
 
 Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. This may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score.
 
-(1) Choose a state senate race and make a prediction about what will happen in the November 2020 US Election based on historical data and current polls. Create a short 5-10 minute video to share with the class on the class Discussion Board or present your results in 10-15 minutes over zoom to the class **before the election** (if you decide to present, please let Dr. Harris know at least 1 week in advance). Include relevant statistics, tables, and graphs in your presentation/video.   
+(1) Choose a state senate race and make a prediction about what will happen in the November 2020 US Election based on historical data and current polls. Create a short 5-10 minute video to share with the class on the class discussion board or present your results in 10-15 minutes over zoom to the class **before the election** (if you decide to present, please let Dr. Harris know at least 1 week in advance). Include relevant statistics, tables, and graphs in your presentation/video.   
 
-(2) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course Discussion Board. 
+(2) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course discussion board. 
 
-(3) Listen to a minimum of 5 episodes of a statistics or R related podcast and write a memo of *up to 500 words*. The memo should have two parts: (1) a summary of the topics in the episodes you listened to, and (2) a discussion of the relevance (or lack of relevance) of the topics to you and/or your profession. 
+(3) Listen to a minimum of 5 episodes of a statistics or R related podcast and write a discussion board podcast review post of *up to 500 words*. The post should have three parts: (1) a summary of the topics in the episodes you listened to (with episode names), (2) a discussion of the relevance (or lack of relevance) of the topics to you and/or your profession, and (3) a recommendation to other students about the podcast (worth the time? not worth the time?).  
 
-(4) Read _Rigor Mortis_ by Richard Harris or _Weapons of Math Destruction_ by Cathy O'Neil or _Factfulness_ by Hans Rosling or _Algorithms of Oppression_ by Safiya Noble and write a memo of *up to 500 words*. The memo should have two parts: (1) a summary of the book, and (2) a discussion of the relevance (or lack of relevance) of the topics in the book to you and/or your profession. 
+(4) Read _Rigor Mortis_ by Richard Harris or _Weapons of Math Destruction_ by Cathy O'Neil or _Factfulness_ by Hans Rosling or _Algorithms of Oppression_ by Safiya Noble and write a discussion board book review post of *no more than 500 words*. The post should have three parts: (1) a summary of the book, (2) a discussion of the relevance (or lack of relevance) of the topics in the book to you and/or your profession, and (3) a recommendation to other students about the book (worth the time? not worth the time?). 
 
-(5) Identify a quantitative published article that uses a publicly available data set like NHANES or BRFSS, or an article you are able to obtain the data for in some other way. Reproduce a table or figure from the article as closely as you can using R. Submit an R-Markdown file that includes a link to the original article in the comments, the annotated R code you used to reproduce the figure or table, and a short summary of any challenges you faced or anything you were not able to figure out during the process. 
+(5) Identify a quantitative published article that uses a publicly available data set like NHANES or BRFSS, or an article you are able to obtain the data for in some other way. Reproduce a table or figure from the article as closely as you can using R. Write a very brief post on the class discussion board that about your project including any challenges you faced. Attach an R-Markdown file to the post that includes the annotated R code you used to reproduce the figure or table.
 
 Statistics in the Wild projects will be graded as complete (100), partial (70), or incomplete/missing (0). See schedule for due date and **plan ahead**!
 
@@ -278,7 +274,7 @@ Participating in team work and the class Discussion Board and/or zoom activities
 
 **Schedule**
 
-## Week 1 (August 27): Course intro & data preparation
+## Week 1 (August 27): Course intro & data preparation (plan to be available during class time this week)
 
 BEFORE CLASS:
 
@@ -528,7 +524,7 @@ DURING CLASS TIME (optional attendance via zoom):
          + Finish any planning for book club 
          + Work on final project
 
-## Week 14 (December 3): Book club
+## Week 14 (December 3): Book club (plan to be available during class time this week)
 
 BEFORE CLASS:
 
@@ -540,7 +536,7 @@ DURING CLASS TIME (attendance may be required, to be determined):
 
 * Book club! 
 
-## Week 15 (December 10): Final project videos & discussion board 
+## Week 15 (December 10): Final project videos & discussion board (plan to be available during class time this week)
 
 BEFORE CLASS: 
 
@@ -548,9 +544,9 @@ BEFORE CLASS:
 * Post your video to the Final Project discussion board
     + Optional: Post your Markdown file or a link to it with/below the video 
 
-IN CLASS: 
+DURING CLASS TIME: 
 
-* For the first 90 minutes of class, watch *at least* 5 videos of your choice posted on the discussion board by other students. You do not need to login to the course zoom to do this, just go directly to Canvas. As you watch each video, pay attention to the topic, data source, analysis choices, visual displays of data, results, interpretation, and implications. 
+* For the first 90 minutes of class, watch *at least* 5 videos of your choice posted on the Final Project thread on the discussion board by other students. You do not need to login to the course zoom to do this, just go directly to Canvas. As you watch each video, pay attention to the topic, data source, analysis choices, visual displays of data, results, interpretation, and implications. 
 
 * For each video you watch, add something to the discussion board about the project. Keep in mind these are your colleagues who can greatly benefit from your thoughts, especially if they are **constructive** (a comment like "this is great!" or "this sucks!" is not very helpful, please be specific about what is great). Some things you could add:
     + A question about the project 
@@ -561,6 +557,7 @@ IN CLASS:
 * For the next 30 minutes of class: 
     + Review the discussion of your video and respond to at least 3 of the discussion points
     + Go back to discussions you contributed to and see how the discussion is unfolding, contribute if you have more to add 
+    + Leave the Final Project discussion thread and read 2 of the Statistics in the Wild discussion posts from your classmates, add your thoughts to each one you read  
     
 * (optional) For the last hour of the course: 
     + Check in on zoom with the course instructor and/or TA, who will be available in their zoom rooms. Please come by with any final questions, to wave awkwardly, to share thoughts about the course, to share funny memes, cool code, or bad graphs, or just to see the faces of your colleagues one more time before winter break. 

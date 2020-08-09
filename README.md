@@ -227,7 +227,7 @@ Additional details will become available when book club gets closer. Like Statis
 
 **Midterm + final project (70%)**
 
-Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work twice, once as a midterm project and once as a final project. 
+Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board twice, once as a midterm project and once as a final project. 
 
 *The midterm project is worth 20% of your course grade and should include the following:*
 
@@ -247,6 +247,7 @@ Find a data set on your own and use the data to answer a research question of yo
         + recoding and labelling variables as needed 
         + ensuring missing values are properly coded 
     + Includes appropriate descriptive statistics and/or graphs that clearly show the values of the outcome and predictor variables 
+* A small percentage of your score will be based on your reviews of other student midterm discussion board posts
     
 *The final project is worth 50% of your course grade and should include the following:*
 
@@ -261,6 +262,7 @@ Find a data set on your own and use the data to answer a research question of yo
     + Model assumption checking 
     + Interpretation of the assumption checking, statistical model results, fit, and significance
     + 1-2 paragraphs answering the research question based on your results, putting your results in the context of other research in the area (what do they confirm? what do they add?), and suggestions for future directions for research or practice 
+* A small percentage of your score will be based on your reviews of other student final project discussion board posts
 
 You MUST PASS the final project with a total of 70% or higher to pass the class. 
 
@@ -405,7 +407,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Post midterm project to discussion board, include a very brief description of the project and attach your R Markdown file (due before class starts this week)
+* Post midterm project to discussion board, include a very brief description of the project and attach or link your R Markdown and data files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
@@ -425,7 +427,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Download the R Markdown files for 2 midterm projects from the class discussion board; open and knit the Markdown file. Provide a brief review of the work on the discussion board. If it will not knit, try to figure out why and provide your classmate with a hint.
+* From th class discussion board, download the R Markdown files for 2 midterm projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 6 exercises 
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
@@ -537,7 +539,7 @@ DURING CLASS TIME (attendance may be required, to be determined):
 
 BEFORE CLASS: 
 
-* Post your video to the Final Project discussion board, include your Markdown file (or a link to it) and any other files needed to re-run the analyses
+* Post your video to the Final Project discussion board, include your Markdown file (or a link to it) and any other files needed to re-run the analyses. 
 
 DURING CLASS TIME: 
 

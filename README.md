@@ -11,18 +11,17 @@
 * credit hours: 3 
 * grade: L/G 
 * room: Zoom room 613 926 5756
-* day/time: Tuesdays 1-4pm or 5:30-8:30pm depending on your section
+* day/time: Thursdays **1-4pm** or **5:30-8:30pm** 
 
 ### Instructor: Jenine Harris 
 * email: harrisj@wustl.edu
 * student hours location: Zoom room 613 926 5756
-* student hours: Tuesdays 3-4pm & Fridays 10-11am 
+* student hours: Tuesdays 3-4pm & Fridays 10-11am & first hour of scheduled class time 
 
 ### Teaching assistant: Laura Brugger 
-* student hours: Mondays noon-1pm & Wednesdays 9-10am
+* email: laura.brugger@wustl.edu 
+* student hours: Mondays noon-1pm & Wednesdays 9-10am & last hour of scheduled class time 
 * student hours location: Zoom room 261 526 2045
-* teaching assistant email: laura.brugger@wustl.edu 
-
 
 ### I.	COURSE DOMAIN AND BOUNDARIES
 
@@ -111,7 +110,7 @@ While on campus, it is imperative that students follow all public health guideli
 
 The options for obtaining free versions of the planned course book are limited by the new structures keeping us all safe in the pandemic (limited course reserves and library access), so there are now 2 options for course readings. While the main book is now *optional*, it remains highly preferred for use in the course. I have a number of options to make the for-purchase book less expensive if you want to do this option. 
 
-*Please know that, based on my contract with the publisher, I do not expect to receive any royalties from purchases of my book for this semester and, if somehow I do unexpectedly receive royalties, I will donate them back to the university for scholarships.*
+*Please note that, based on my contract with the publisher, I do not expect to receive any royalties from purchases of my book for this semester and, if somehow I do unexpectedly receive royalties, I will donate them back to the Brown School for scholarships.*
 
 Options for obtaining the course book at low or no cost: 
 
@@ -133,8 +132,6 @@ Alternate readings will be provided each week (except the first 4 weeks since th
 * 	Field, Andy. 2012. Discovering Statistics using R. Sage. Access pdf:  https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 *	Fischetti, Tony. 2018. Data Analysis with R - Second Edition. Packt Publishing. 
 * 	Dalgaard, Peter. 2008. Introductory Statistics with R. Springer. 
-
-
 
 ### VII.	ORGANIZATION OF COURSE
 
@@ -189,7 +186,7 @@ During the course you will earn points by completing peer reviews, individual ch
 
 \* **Late work is not accepted. Specific policies:** 
 
-*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number points (no more than 5% of points) for the final project are for making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade will not be possible.   
+*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
 
 *What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1500 word paper discussing the topics from the book club night. This paper is due by the final course meeting on `r fob2020$week15[1]`.
 
@@ -212,9 +209,9 @@ The highest threshold you reach will be your earned grade:
 
 Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. This may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score.
 
-(1) Choose a state senate race and make a prediction about what will happen in the November 2020 US Election based on historical data and current polls. Create a short 5-10 minute video to share with the class or present your results in 10-15 minutes over zoom to the class **before the election** (if you decide to present, please let Dr. Harris know at least 1 week in advance). Include relevant statistics, tables, and graphs in your presentation/video.   
+(1) Choose a state senate race and make a prediction about what will happen in the November 2020 US Election based on historical data and current polls. Create a short 5-10 minute video to share with the class on the class Discussion Board or present your results in 10-15 minutes over zoom to the class **before the election** (if you decide to present, please let Dr. Harris know at least 1 week in advance). Include relevant statistics, tables, and graphs in your presentation/video.   
 
-(2) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. 
+(2) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course Discussion Board. 
 
 (3) Listen to a minimum of 5 episodes of a statistics or R related podcast and write a memo of *up to 500 words*. The memo should have two parts: (1) a summary of the topics in the episodes you listened to, and (2) a discussion of the relevance (or lack of relevance) of the topics to you and/or your profession. 
 
@@ -228,7 +225,9 @@ All options meet at least one competency depending on what the student selects a
 
 **Book club (10%)** 
 
-For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a 20-minute class discussion or activity on the topic. The discussion or activity should include opportunities for participation by other students in the class (no 20-min presentations). Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is also part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
+For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity can be during class time, or on the Discussion Board during the week of book club. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know your team preference for: (1) doing a "live" via zoom activity or discussion, or (2) doing a Discussion Board activity or discussion so she can alert your classmates. 
+
+Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is also part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
 **Midterm + final project (70%)**
 
@@ -271,10 +270,11 @@ You MUST PASS the final project with a total of 70% or higher to pass the class.
 
 The midterm and final projects contribute to meeting the *Foundational knowledge* statement and cover all three *Foundational competencies* from section II.
 
+
+
 **Participation and professionalism (5%)** 
 
-Participating in class activities and team work, providing feedback to the instructor and teaching assistant via course evaluations, and treating your fellow students, teaching assistants, and instructors (regular and guest) in a professional manner in person and electronically are required and will be translated into the professionalism score.
-
+Participating in team work and the class Discussion Board and/or zoom activities, providing feedback to the instructor and teaching assistant via course evaluations, and treating your fellow students, teaching assistants, and instructors (regular and guest) in a professional manner are required and will be translated into the professionalism score. Send an email with your mailing address to Dr. Harris (harrisj@wustl.edu) if you would like her to send you a class hex sticker through the mail :-). 
 
 **Schedule**
 
@@ -287,40 +287,44 @@ BEFORE CLASS:
 
 IN CLASS: 
 
-* How to zoom to class
 * Class structure 
 * Syllabus review & questions  
 * Icebreaker activity with intro to R & R-Studio 
+    + Practice adding your graphic to the Discussion Board "Hello World" thread
 * Time to work Chapter 1 exercises (coder or hacker, your choice) 
+    + Practice leaving zoom to get help from the TA and coming back into zoom
 
 ## Week 2 (September 3): Descriptive statistics
 
 BEFORE CLASS:
 
-* Have Chapter 1 exercises ready to discuss/share
+* Complete Chapter 1 exercises 
+    + Post any questions to the Chapter 1 exercises Discussion Board thread
 * Read Harris Chapter 2 through section 2.6 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 
-IN CLASS: 
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
+    + Zoom in to work with your classmates
 * Time to work on Chapter 2 exercises (coder #1-6 or hacker #1-7, your choice) (third hour)
 
 ## Week 3 (September 10): Tables and graphs 
 
 BEFORE CLASS: 
 
-* Have Chapter 2 exercises ready to discuss/share
+* Complete Chapter 2 exercises 
+    + Post any questions to the Chapter 2 exercises Discussion Board thread
 * Read Harris Chapter 2 sections 2.7-2.8 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Read Harris Chapter 3 through section 3.5 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapters 2 and 3 videos (as needed)
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -338,7 +342,7 @@ BEFORE CLASS:
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
 * Obtain materials for Statistics in the Wild project and make a plan 
 
-IN CLASS: 
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -359,7 +363,7 @@ BEFORE CLASS:
 
 * Read Chapter 5 of Discovering Statistics using R, pdf found here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf
 
-IN CLASS: 
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -381,7 +385,7 @@ BEFORE CLASS:
 * Read Fischetti Testing Hypotheses chapter 
 * Read Dalgaard sections 8.1-8.2
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -395,7 +399,7 @@ BEFORE CLASS:
 * Have Chapter 5 exercises ready to discuss/share
 * Work on midterm project (optional/recommended)
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -416,7 +420,7 @@ BEFORE CLASS:
 
 * Read Chapter 9 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -437,7 +441,7 @@ BEFORE CLASS:
 
 * Read Chapter 10 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -458,7 +462,7 @@ BEFORE CLASS:
 
 * Read Chapter 6 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -479,7 +483,7 @@ BEFORE CLASS:
 
 * Read Chapter 7 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -500,7 +504,7 @@ BEFORE CLASS:
 
 * Read Chapter 8 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-IN CLASS:
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -515,7 +519,7 @@ BEFORE CLASS:
 * Finish Statistics in the Wild (optional/recommended)
 * Review feedback from midterm (optional/recommended)
 
-IN CLASS: 
+DURING CLASS TIME (optional attendance via zoom): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -532,7 +536,7 @@ BEFORE CLASS:
 * Finalize book club activity with group & instructor if needed 
     + Please share your plans with Dr. Harris ahead of time so she can be prepared for screen sharing, zoom rooms, or whatever else you have planned 
 
-IN CLASS: 
+DURING CLASS TIME (attendance may be required, to be determined): 
 
 * Book club! 
 
@@ -559,7 +563,7 @@ IN CLASS:
     + Go back to discussions you contributed to and see how the discussion is unfolding, contribute if you have more to add 
     
 * (optional) For the last hour of the course: 
-    + Check in on zoom with the course instructor and/or TA, who will be available in their zoom rooms. Please come by with any final questions, to wave awkwardly, to share thoughts about the course, to share funny memes and bad graphs, or just to see the faces of your colleagues one more time before winter break. 
+    + Check in on zoom with the course instructor and/or TA, who will be available in their zoom rooms. Please come by with any final questions, to wave awkwardly, to share thoughts about the course, to share funny memes, cool code, or bad graphs, or just to see the faces of your colleagues one more time before winter break. 
     + Note that multiple students may be in the zoom room at once, so feel free to use the chat and the instructor and teaching assistant will respond after class ends to any questions that go unanswered.
 
 * (optional but highly recommended) Pat yourself on the back, you made it through Biostats! Congratulations! Have a restful break.

@@ -178,7 +178,7 @@ During the course you will earn points by completing individual projects and a b
 * 5% professionalism 
 * 70% midterm and final projects  
 
-\* **Late work is not accepted. Specific policies:** 
+**Late work is not accepted. Specific policies:** 
 
 *What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
 
@@ -215,7 +215,7 @@ Choose ONE of the following projects to complete ON YOUR OWN. The purpose of thi
 
 (5) Identify a quantitative published article that uses a publicly available data set like NHANES or BRFSS, or an article you are able to obtain the data for in some other way. Reproduce a table or figure from the article as closely as you can using R. Write a very brief post on the class discussion board that about your project including any challenges you faced. Attach an R-Markdown file to the post that includes the annotated R code you used to reproduce the figure or table.
 
-Statistics in the Wild projects will be graded as complete (100), partial (70), or incomplete/missing (0). See schedule for due date and **plan ahead**!
+Statistics in the Wild projects will be graded as complete (100), partial (70), or incomplete/missing (0). If you feel uncomfortable posting your project to the class discussion board under your own name, remove your name from the work and send it via email to Dr. Harris and include the name of the post; Dr. Harris will post it for you confidentially. See schedule for due date and **plan ahead**!
 
 All options meet at least one competency depending on what the student selects and their approach.
 
@@ -265,8 +265,6 @@ Find a data set on your own and use the data to answer a research question of yo
 You MUST PASS the final project with a total of 70% or higher to pass the class. 
 
 The midterm and final projects contribute to meeting the *Foundational knowledge* statement and cover all three *Foundational competencies* from section II.
-
-
 
 **Participation and professionalism (5%)** 
 
@@ -332,7 +330,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapters 2 & 3 exercises ready to discuss/share 
+* Complete Chapters 2 & 3 exercises  
 * Read Harris Chapter 3 sections 3.6-3.8 
 * Watch Chapter 3 videos (as needed)
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
@@ -349,7 +347,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS: 
 
-* Have Chapter 3 exercises ready to discuss/share
+* Complete Chapter 3 exercises 
 * Read Harris Chapter 4 
 * Watch Chapter 4 videos (as needed)
 * Read Criado-Perez Chapters 6 & 7 (optional/recommended) 
@@ -370,7 +368,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 4 exercises ready to discuss/share
+* Complete Chapter 4 exercises 
 * Read Harris Chapter 5 
 * Watch Chapter 5 videos (as needed)
 * Read Criado-Perez Chapter 8 (optional/recommended) 
@@ -392,7 +390,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 5 exercises ready to discuss/share
+* Complete Chapter 5 exercises 
 * Work on midterm project (optional/recommended)
 
 DURING CLASS TIME (optional attendance via zoom): 
@@ -407,7 +405,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Turn in midterm project (due before class starts this week)
+* Post midterm project to discussion board, include a very brief description of the project and attach your R Markdown file (due before class starts this week)
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
@@ -427,11 +425,10 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 6 exercises ready to discuss/share
+* Download the R Markdown files for 2 midterm projects from the class discussion board; open and knit the Markdown file. Provide a brief review of the work on the discussion board. If it will not knit, try to figure out why and provide your classmate with a hint.
+* Complete Chapter 6 exercises 
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
-* Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
-* Work on Statistics in the Wild (optional/recommended)
 
 **Alternate readings if no access to Harris:** 
 
@@ -448,10 +445,10 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 7 exercises ready to discuss/share
+* Complete Chapter 7 exercises 
 * Read Harris Chapter 8 
 * Watch Chapter 8 videos (as needed)
-* Read Criado-Perez Chapter 13 (optional/recommended) 
+* Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 
 **Alternate readings if no access to Harris:**
@@ -469,10 +466,10 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 8 exercises ready to discuss/share
+* Complete Chapter 8 exercises 
 * Read Harris Chapter 9 
 * Watch Chapter 9 videos (as needed)
-* Meet with book club group to plan (optional/recommended) 
+* Read Criado-Perez Chapter 13 and meet with book club group to plan (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 
 **Alternate readings if no access to Harris:**
@@ -490,7 +487,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Have Chapter 9 exercises ready to discuss/share
+* Complete Chapter 9 exercises 
 * Read Harris Chapter 10 
 * Watch Chapter 10 videos (as needed)
 * Review feedback from midterm (optional/recommended)
@@ -511,7 +508,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS: 
 
-* Have Chapter 10 exercises ready to discuss/share
+* Complete Chapter 10 exercises 
 * Finish Statistics in the Wild (optional/recommended)
 * Review feedback from midterm (optional/recommended)
 
@@ -528,7 +525,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* Submit Statistics in the Wild project
+* Post Statistics in the Wild project to discussion board
 * Finalize book club activity with group & instructor if needed 
     + Please share your plans with Dr. Harris ahead of time so she can be prepared for screen sharing, zoom rooms, or whatever else you have planned 
 
@@ -540,9 +537,7 @@ DURING CLASS TIME (attendance may be required, to be determined):
 
 BEFORE CLASS: 
 
-* Submit to Canvas your final project Markdown file, data file or link to the data, and video file or link to video uploaded wherever you uploaded it
-* Post your video to the Final Project discussion board
-    + Optional: Post your Markdown file or a link to it with/below the video 
+* Post your video to the Final Project discussion board, include your Markdown file (or a link to it) and any other files needed to re-run the analyses
 
 DURING CLASS TIME: 
 

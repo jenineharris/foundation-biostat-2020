@@ -135,7 +135,7 @@ Alternate readings will be provided each week (except the first 4 weeks since th
 
 ### VII.	ORGANIZATION OF COURSE
 
-This class is flipped! This means that, instead of lecturing over zoom, the lectures will be pre-recorded and assigned to watch outside of class. Then, in-class, we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first hour will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second hour will be a check-in on the work from the prior week and occasionally a demo from, or Q & A on, the video(s) of the week. During the last hour of each week, students will be placed in zoom rooms with a few other students and the instructor  will go from room-to-room to answer questions. At the same time, the TA (Laura Brugger) will be in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
+This class is flipped! This means that, instead of lecturing over zoom, the lectures will be pre-recorded and assigned to watch outside of class. Then, in-class, we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first hour will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second hour will be a check-in on the work from the prior week and occasionally a demo from the reading(s)/video(s) of the week. During the last hour of each week, students will be placed in zoom rooms with a few other students and the instructor will go from room-to-room to answer questions. At the same time, the TA (Laura Brugger) will be in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
 
 On other weeks we will have a course book club, project work time, and final project discussion and peer reviews. 
 
@@ -143,11 +143,11 @@ The course work is designed to introduce you to statistical approaches common in
 
 If you are working on coursework outside of class time and your books and other materials do not contain enough information for you to complete the work, there are multiple options for you to get help: 
 
-#. Check the UCLA statistics website, youtube, and other online resources 
-#. Email the instructor or TA 
-#. Go to the instructor or TA office hours 
-#. Make an appointment with the StatLab 
-#. Make a one-on-one appointment outside office hours with the TA or instructor 
+* Check the UCLA statistics website, youtube, and other online resources 
+* Email the instructor or TA 
+* Go to the instructor or TA student hours 
+* Make an appointment with the StatLab 
+* Make a one-on-one appointment outside office hours with the TA or instructor 
 
 The instructor and TA will attempt to provide you with a response within 24 hours during the course, although it may be longer if you request help during the weekend. 
 

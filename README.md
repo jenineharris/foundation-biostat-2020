@@ -180,7 +180,7 @@ During the course you will earn points by completing individual projects and a b
 
 **Late work is not accepted. Specific policies:** 
 
-*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
+*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number of points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
 
 Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board fun thread.
  

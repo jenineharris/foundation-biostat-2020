@@ -281,7 +281,7 @@ BEFORE CLASS:
 * Install R and RStudio 
 * Read Harris Chapter 1 (Including the Boxes!) (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 
-IN CLASS: 
+IN CLASS (zoom room 613 926 5756): 
 
 * Class structure 
 * Syllabus review & questions  
@@ -301,7 +301,7 @@ BEFORE CLASS:
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -320,7 +320,7 @@ BEFORE CLASS:
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -338,7 +338,7 @@ BEFORE CLASS:
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
 * Obtain materials for Statistics in the Wild project and make a plan 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -359,7 +359,7 @@ BEFORE CLASS:
 
 * Read Chapter 5 of Discovering Statistics using R, pdf found here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -381,7 +381,7 @@ BEFORE CLASS:
 * Read Fischetti Testing Hypotheses chapter 
 * Read Dalgaard sections 8.1-8.2
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -395,7 +395,7 @@ BEFORE CLASS:
 * Complete Chapter 5 exercises 
 * Work on midterm project (optional/recommended)
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -416,7 +416,7 @@ BEFORE CLASS:
 
 * Read Chapter 9 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -427,7 +427,7 @@ DURING CLASS TIME (optional attendance via zoom):
 
 BEFORE CLASS:
 
-* From th class discussion board, download the R Markdown files for 2 midterm projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
+* From the class discussion board, download the R Markdown files for 2 midterm projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 6 exercises 
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
@@ -436,7 +436,7 @@ BEFORE CLASS:
 
 * Read Chapter 10 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -457,7 +457,7 @@ BEFORE CLASS:
 
 * Read Chapter 6 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
@@ -478,14 +478,14 @@ BEFORE CLASS:
 
 * Read Chapter 7 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 9 exercises (coder or hacker; RMD will be available on GitHub)
 
-## Week 12 (November 12): Logistic regression
+## Week 12 (November 12): Logistic regression (Guest instructor: Laura Brugger)
 
 BEFORE CLASS:
 
@@ -499,12 +499,14 @@ BEFORE CLASS:
 
 * Read Chapter 8 of Andy Field "Discovering Statistics Using R" online here: https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today: 261 526 2045): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 10 exercises (coder or hacker; RMD will be available on GitHub)
+     + Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
+
 
 ## Week 13 (November 19): Open work day
 
@@ -514,7 +516,7 @@ BEFORE CLASS:
 * Finish Statistics in the Wild (optional/recommended)
 * Review feedback from midterm (optional/recommended)
 
-DURING CLASS TIME (optional attendance via zoom): 
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour)
 * Check-in/warm-up/Q & A (second hour)

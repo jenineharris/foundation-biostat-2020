@@ -143,11 +143,12 @@ The course work is designed to introduce you to statistical approaches common in
 
 If you are working on coursework outside of class time and your books and other materials do not contain enough information for you to complete the work, there are multiple options for you to get help: 
 
+* Try the R Studio community page: https://community.rstudio.com
 * Check the UCLA statistics website, youtube, and other online resources 
 * Email the instructor or TA 
 * Go to the instructor or TA student hours 
 * Make an appointment with the StatLab 
-* Make a one-on-one appointment outside office hours with the TA or instructor 
+* Make a one-on-one appointment outside student hours with the TA or instructor 
 
 The instructor and TA will attempt to provide you with a response within 24 hours during the course, although it may be longer if you request help during the weekend. 
 

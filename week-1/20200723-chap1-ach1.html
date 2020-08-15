@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Preparing data for analysis and visualization in R</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Jenine Harris" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <script src="libs/xaringanExtra-webcam/webcam.js"></script>
+    <script id="xaringanExtra-webcam-options" type="application/json">{"width":"200","height":"200","margin":"1em"}</script>
+    <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="libs/tile-view/tile-view.js"></script>
+    <script src="libs/clipboard/clipboard.min.js"></script>
+    <link href="libs/xaringanExtra-clipboard/xaringanExtra-clipboard.css" rel="stylesheet" />
+    <script src="libs/xaringanExtra-clipboard/xaringanExtra-clipboard.js"></script>
+    <script>window.xaringanExtraClipboard(null, {"button":"Copy Code","success":"Copied!","error":"Press Ctrl+C to Copy"})</script>
+    <script src="libs/xaringanExtra_fit-screen/fit-screen.js"></script>
+    <link rel="stylesheet" href="biostat-blue.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Preparing data for analysis and visualization in R
+## Observations and variables
+### Jenine Harris
+### Brown School
+
+---
+
+
+
+
+# Defining observations and variables
+
+* **observations**: the person, organization, or other thing being measured
+
+* **variables**: the characteristics being measured  
+
+* In a typical data set, observations are the rows and variables are the columns. 
+
+* For example, a data set consisting of people (the observations) asked about their `voting` and `income` (variables) might look like this:
+
+
+```
+##   income voted
+## 1  34000   yes
+## 2 123000    no
+## 3  21500    no
+```
+
+---
+
+# An example of data with observations and variables 
+
+In this very small data set, there are three **observations** (the rows) and two **variables** (the columns). 
+
+* The first observation is a person with an income of $34,000 that answered "yes" for voted.  
+* The second observation is a person with an income of $123,000 that answered "no" for voted. 
+* The third observation is a person with an income of $21,500 that responded "no" for voted. 
+
+The two variables are `income` and `voted`. 
+
+
+```
+##   income voted
+## 1  34000   yes
+## 2 123000    no
+## 3  21500    no
+```
+
+---
+
+# Entering and storing variables in R
+
+* R stores information as **objects**, and then data analyses and data management are performed on these stored objects. 
+
+* Before an object can be used in data management or analyses in R, it has to be stored in the R environment. 
+
+* Information is stored as objects in R by **assigning** the information a name, which can be a single letter or some combinations of letters and numbers that will serve as the name of the object. 
+
+---
+
+# Using the assignment arrow
+
+* Assigning an object to a name is done by using an arrow like this: `&lt;-`. 
+    + The arrow separates the name of the object on the left from the object itself on the right, like this: `name &lt;- object`. 
+    + An object can be as simple as one letter or number. An object can also be as complex as several data sets combined together.
+
+* For example, let's say you wanted to create an object that stores the number of states with legal marijuana. 
+
+* Try storing `29` in an object called `states` by typing the following at the R prompt (`&gt;`) in the Console pane of the R Studio window. 
+    + After typing the code, press Enter on the keyboard
+
+
+```r
+states &lt;- 29
+```
+
+---
+
+# Using the environment tab
+
+* The `states &lt;- 29` code does not result in anything actually happening in the Console window, instead the `states` object is stored and there is no result to display. 
+
+* R is storing the number 29 as an object called `states` to use in analysis.  
+
+* While nothing happened in the Console, something did happen. 
+    + The `states` object is now stored under the **Environment tab** in the top right pane of the R Studio window. 
+    + Notice that the window shows `states` and its value of 29 under a heading titled *values*.
+
+&lt;img src="graphics/chap1-states-fig3.JPG" width="75%" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Using the history tab
+
+* There is also a **History** tab next to the **Environment** tab in the upper right pane. 
+
+* Clicked on the History tab to see `states &lt;- 29`. 
+
+* This tab holds all of the code run since the History pane was last cleared. 
+
+* Double-click on any of the code shown in the History window and R will send the code to the Console, ready to run again. There is no need to type anything twice! 
+
+* Try clicking on the `states &lt;- 29` code in the History pane to see what happens.
+
+---
+
+# Viewing an object 
+
+* To see the value of the states object created in the Console pane, type the name of the object at the R prompt and press enter:
+
+
+```r
+states
+```
+
+```
+## [1] 29
+```
+
+* Notice that the value of `states` appears.
+
+---
+
+# Using objects in mathematical expressions
+
+* Once a value is stored, it can be used in mathematical expressions.
+
+* To try using the `states` object in a mathematical expression, enter the expression `2 + states` at the R prompt and pressing Enter:
+
+
+```r
+2 + states
+```
+
+```
+## [1] 31
+```
+
+* Note that 31 is printed in the Console, which is the value of `2 + 29`. 
+
+* New vocabulary: When running the code results in something being displayed on the screen, the thing that is displayed is the **output**. For example, the 31 printed after running the code above is **output**. 
+
+---
+
+# Check your understanding
+
+Assign your age in years to an object with your name. Add 5 to the object and press Enter to see how old you will be in 5 years. 
+
+--
+
+### Answer
+
+
+```r
+ageYears &lt;- 49
+
+ageYears + 5
+```
+
+```
+## [1] 54
+```
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

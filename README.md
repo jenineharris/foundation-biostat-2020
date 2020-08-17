@@ -283,6 +283,8 @@ BEFORE CLASS:
 * Read Harris Chapter 1 (Including the Boxes!) (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 1 videos (optional)
     + Video 1 https://youtu.be/UA-CKVYcDSo
+    + Video 2 https://youtu.be/KA030ax55Wc
+    + Video 3 https://youtu.be/AfiM_Cnu7mc
 
 IN CLASS (zoom room 613 926 5756): 
 

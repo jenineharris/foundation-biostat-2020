@@ -286,6 +286,7 @@ BEFORE CLASS:
     + Video 2 https://youtu.be/KA030ax55Wc
     + Video 3 https://youtu.be/AfiM_Cnu7mc
     + Video 4 https://youtu.be/nIFxzbYfP8Q
+    + Video 5 https://youtu.be/elnnQGFdQ0I
 
 IN CLASS (zoom room 613 926 5756): 
 

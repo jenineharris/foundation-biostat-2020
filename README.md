@@ -306,6 +306,7 @@ BEFORE CLASS:
     + Post any questions to the Chapter 1 exercises Discussion Board thread
 * Read Harris Chapter 2 through section 2.6 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
+    + Data types https://youtu.be/lHSYCc3faCI
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 

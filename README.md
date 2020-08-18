@@ -343,6 +343,7 @@ BEFORE CLASS:
 * Complete Chapters 2 & 3 exercises  
 * Read Harris Chapter 3 sections 3.6-3.8 
 * Watch Chapter 3 videos (as needed)
+    + Mosaic plots https://youtu.be/dHBTG0aUHEI
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
 * Obtain materials for Statistics in the Wild project and make a plan 
 

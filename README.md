@@ -127,7 +127,7 @@ Other options:
 
 **Alternate open source books:**
 
-Alternate readings will be provided each week (except the first 4 weeks since the press has made those chapters free online). The three main alternate books are listed below. The Fischetti book has 8 WUSTL licenses so 8 people can have the electronic copy of this book open at any given time. The Dalgaard book has unlimited user access. Both can be accessed through the WUSTL library website. Someone put the whole Field book online or there maybe copies to check out at the library.
+Alternate readings will be provided each week (except the first 4 weeks since the press has made those chapters free online). The three main alternate books are listed below. The Fischetti book has 8 WUSTL licenses so 8 people can have the electronic copy of this book open at any given time. The Dalgaard book has unlimited user access. Both can be accessed through the WUSTL library website. Someone put the whole Field book online or there may be copies to check out at the library.
 
 * 	Field, Andy. 2012. Discovering Statistics using R. Sage. Access pdf:  https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf 
 *	Fischetti, Tony. 2018. Data Analysis with R - Second Edition. Packt Publishing. 

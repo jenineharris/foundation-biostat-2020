@@ -307,7 +307,7 @@ BEFORE CLASS:
 * Read Harris Chapter 2 through section 2.6 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
     + Data types https://youtu.be/lHSYCc3faCI
-    + Making a basic frequency table with `table()` https://youtu.be/HZWGSRHOxWE
+    + Making a basic frequency table with `table()` https://youtu.be/5t8emqtUxLQ
     + Making a frequency table with `freq()` or `tidyverse` https://youtu.be/6PNsQSrSzIQ
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 

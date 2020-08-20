@@ -309,6 +309,7 @@ BEFORE CLASS:
     + Data types https://youtu.be/lHSYCc3faCI
     + Making a basic frequency table with `table()` https://youtu.be/5t8emqtUxLQ
     + Making a frequency table with `freq()` or `tidyverse` https://youtu.be/6PNsQSrSzIQ
+    + Intro to mean, median, mode https://youtu.be/JGKCPrYb8uY
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 

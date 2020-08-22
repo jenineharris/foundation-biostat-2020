@@ -313,6 +313,7 @@ BEFORE CLASS:
     + Messy data and mean, median, mode https://youtu.be/vjOM7gbjMls
     + Variance, standard deviation, kurtosis https://youtu.be/Qws_O7toVpU
     + Range, IQR https://youtu.be/nrFuianQpWc
+    + Indices of Qualitative Variation https://youtu.be/MAUwBx73ddc
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 

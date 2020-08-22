@@ -312,6 +312,7 @@ BEFORE CLASS:
     + Intro to mean, median, mode https://youtu.be/M1pmYbZw63g
     + Messy data and mean, median, mode https://youtu.be/vjOM7gbjMls
     + Variance, standard deviation, kurtosis https://youtu.be/Qws_O7toVpU
+    + Range, IQR https://youtu.be/nrFuianQpWc
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 

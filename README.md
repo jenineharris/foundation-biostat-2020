@@ -163,7 +163,7 @@ During the course you will earn points by completing individual projects and a b
 #### What will happen during scheduled class time each week:
 
 * Individual appointments (1 hour) 
-    + Only people with appointments attend this, sign up for appointments on the course discussion board 
+    + Only people with appointments attend this, sign up for appointments at https://tinyurl.com/biostatAppt (if you cannot open or add your name, please email Dr. Harris with your preferred time and she will add you)
     + Highly recommend at least 2 individual appointments per semester 
 * Check-in/warm-up/Q&A (1 hour) 
     + zoom in to class to discuss previous exercises, ask questions

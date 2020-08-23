@@ -304,7 +304,7 @@ BEFORE CLASS:
 
 * Complete Chapter 1 exercises 
     + Post any questions to the Chapter 1 exercises Discussion Board thread
-* Read Harris Chapter 2 through section 2.6 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
+* Read Harris Chapter 2 through section 2.7.1.1 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
     + Data types https://youtu.be/lHSYCc3faCI
     + Making a basic frequency table with `table()` https://youtu.be/5t8emqtUxLQ

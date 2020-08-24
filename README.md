@@ -314,6 +314,7 @@ BEFORE CLASS:
     + Variance, standard deviation, kurtosis https://youtu.be/Qws_O7toVpU
     + Range, IQR https://youtu.be/nrFuianQpWc
     + Indices of Qualitative Variation https://youtu.be/MAUwBx73ddc
+    + Cleaning data for tables https://youtu.be/b0JTumTPtW8
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
 * Start thinking about Statistics in the Wild project options 
 
@@ -333,6 +334,7 @@ BEFORE CLASS:
 * Read Harris Chapter 2 sections 2.7-2.8 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Read Harris Chapter 3 through section 3.5 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapters 2 and 3 videos (as needed)
+    + Cleaning data for tables https://youtu.be/b0JTumTPtW8 (repeat from Week 2)
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
 

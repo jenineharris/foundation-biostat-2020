@@ -16,7 +16,7 @@
 ### Instructor: Jenine Harris 
 * email: harrisj@wustl.edu
 * student hours location: Zoom room 613 926 5756
-* student hours: Tuesdays 3-4pm & Fridays 11am-noon & first hour of scheduled class time 
+* student hours: Tuesdays 3-4pm & Fridays noon-1pm & first hour of scheduled class time 
 
 ### Teaching assistant: Laura Brugger 
 * email: laura.brugger@wustl.edu 

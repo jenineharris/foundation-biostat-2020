@@ -335,6 +335,7 @@ BEFORE CLASS:
 * Read Harris Chapter 3 through section 3.5 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapters 2 and 3 videos (as needed)
     + Cleaning data for tables https://youtu.be/b0JTumTPtW8 (repeat from Week 2)
+    + Making a table with tableone https://youtu.be/eGL_PjoWA4A
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
 

@@ -320,7 +320,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
     + Zoom in to work with your classmates
 * Time to work on Chapter 2 exercises (coder #1-6 or hacker #1-7, your choice) (third hour)
@@ -341,7 +341,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 2 exercises (coder #7-9 or hacker #8-10, your choice)
@@ -360,7 +360,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 3 exercises (coder #4-6 or hacker)
@@ -381,7 +381,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 4 exercises (coder or hacker; RMD will be available on GitHub)
@@ -403,7 +403,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 5 exercises (coder or hacker; RMD will be available on GitHub)
@@ -417,7 +417,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Midterm project
@@ -438,7 +438,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 6 exercises (coder or hacker; RMD will be available on GitHub)
@@ -458,7 +458,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 7 exercises (coder or hacker; RMD will be available on GitHub)
@@ -479,7 +479,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 8 exercises (coder or hacker; RMD will be available on GitHub)
@@ -500,7 +500,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 9 exercises (coder or hacker; RMD will be available on GitHub)
@@ -521,7 +521,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today: 261 526 2045): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 10 exercises (coder or hacker; RMD will be available on GitHub)
@@ -538,7 +538,7 @@ BEFORE CLASS:
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
-* One-on-one appointments (first hour)
+* One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
     + Whatever you want to work on, suggestions:

@@ -1,0 +1,75 @@
+---
+title: "Chapter 3 Exercises: Hacker Edition"
+author: "Jenine Harris"
+date: "8/22/2020"
+output: html_document
+---
+
+NOTE: You may want to copy/paste the questions below into your previous week's exercises file.
+
+```{r}
+# import data and data management from prior exercises
+```
+
+
+
+Exercises:
+
+7) Develop a well-formatted table of results including all variables in the small data set (from the previous exercises).
+
+```{r}
+# create a table 
+
+```
+
+8) Add a prolog and comments to your code (move this to the top of the file)
+
+```{r}
+###########################################
+# Project: Chapter 2-3 Coder Exercises
+# Purpose: Practice Chapter 2-3 Skills
+# Author: Jenine 
+# Edit date: September 5, 2020
+# Data: 
+###########################################
+
+```
+
+
+9) Summarize the characteristics of transgender survey participants in the 2014 BRFSS.
+
+
+CHAPTER 3 CODER EXERCISES
+
+Create well-formatted, appropriate graphs for each of the variables below.
+
+1) Income (highlight the group with the highest percentage in a different color)
+
+```{r}
+# Import the data 
+
+# Clean the income, marital status, and race variables 
+
+# Create a graph for income 
+```
+
+
+2) Marital status 
+
+```{r}
+# Create a graph of marital status
+```
+
+
+3) Race (format with color to highlight the group with the highest gun usage)
+
+```{r}
+# Create a graph of race 
+```
+
+
+
+
+
+
+

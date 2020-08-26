@@ -346,6 +346,7 @@ BEFORE CLASS:
     + Cleaning data for tables https://youtu.be/b0JTumTPtW8 (repeat from Week 2)
     + Making a table with tableone https://youtu.be/eGL_PjoWA4A
     + Graphs for a single categorical variable https://youtu.be/mXUa0pMWw_I
+    + Graphs for a single continuous variable https://youtu.be/W5iGyvNwAYo
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
 

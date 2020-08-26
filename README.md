@@ -108,6 +108,11 @@ While on campus, it is imperative that students follow all public health guideli
 
 ### VI.	READINGS
 
+There are 2 course books:
+
+(1) Statistics with R: Solving Problems Using Real-World Data (Jenine K. Harris)
+(2) Invisible Women: Data Bios in a World Designed for Men (Caroline Criado-Perez)
+
 The options for obtaining free versions of the planned course book are limited by the new structures keeping us all safe in the pandemic (limited course reserves and library access), so there are now 2 options for course readings. While the main book is now *optional*, it remains highly preferred for use in the course. I have a number of options to make the for-purchase book less expensive if you want to do this option. 
 
 *Please note that, based on my contract with the publisher, I do not expect to receive any royalties from purchases of my book for this semester and, if somehow I do unexpectedly receive royalties, I will donate them back to the Brown School for scholarships.*
@@ -163,7 +168,7 @@ During the course you will earn points by completing individual projects and a b
 #### What will happen during scheduled class time each week:
 
 * Individual appointments (1 hour) 
-    + Only people with appointments attend this, sign up for appointments at https://tinyurl.com/biostatAppt (if you cannot open or add your name, please email Dr. Harris with your preferred time and she will add you)
+    + Only people with appointments attend this, sign up for appointments on Canvas 
     + Highly recommend at least 2 individual appointments per semester 
 * Check-in/warm-up/Q&A (1 hour) 
     + zoom in to class to discuss previous exercises, ask questions
@@ -181,7 +186,7 @@ During the course you will earn points by completing individual projects and a b
 
 **Late work is not accepted. Specific policies:** 
 
-*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number of points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will not be available to you so a 100% grade on the final will not be possible without submitting the midterm. 
+*What happens if I don't submit the midterm project on time?* The item will not be graded and the percentage available for the item will be *added to the weight of your final project*. Because a small number of points (no more than 5% of points) for the final project are earned by making revisions based on feedback for the midterm, those points will only be available to you if you submit a draft of the first half of the project for informal review to Dr. Harris via email at least 2 weeks prior to the final project due date. Withough incorporating feedback, a 100% grade on the final will not be possible. 
 
 Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board fun thread.
  
@@ -204,7 +209,7 @@ The highest threshold you reach will be your earned grade:
 
 **Statistics in the wild (15%)**
 
-Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. This may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score.
+Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score.
 
 (1) Choose a state senate race and make a prediction about what will happen in the November 2020 US Election based on historical data and current polls. Create a short 5-10 minute video to share with the class on the class discussion board or present your results in 10-15 minutes over zoom to the class **before the election** (if you decide to present, please let Dr. Harris know at least 1 week in advance). Include relevant statistics, tables, and graphs in your presentation/video.   
 
@@ -230,6 +235,10 @@ Additional details will become available when book club gets closer. Like Statis
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board twice, once as a midterm project and once as a final project. 
 
+* The data set you select must have the following characteristics:
+    + An outcome variable that is binary or continuous 
+    + A minimum of 3 variables of any data type to use to predict the outcome variable (predictors)
+
 *The midterm project is worth 20% of your course grade and should include the following:*
 
 * A link to the data set online or a copy of the original data file 
@@ -245,9 +254,9 @@ Find a data set on your own and use the data to answer a research question of yo
         + How were the outcome and predictors measured? (data type, categories, values)
     + Imports the data 
     + Cleans the data 
-        + recoding and labelling variables as needed 
-        + ensuring missing values are properly coded 
-    + Includes appropriate descriptive statistics and/or graphs that clearly show the values of the outcome and predictor variables 
+        + Recoding and labelling variables as needed 
+        + Ensuring missing values are properly coded 
+    + Includes and interprets appropriate descriptive statistics and/or graphs that clearly show the values of the outcome and predictor variables 
 * A small percentage of your score will be based on your reviews of other student midterm discussion board posts
     
 *The final project is worth 50% of your course grade and should include the following:*
@@ -256,7 +265,7 @@ Find a data set on your own and use the data to answer a research question of yo
 * Additional text and code added to your R-Markdown file that: 
     + Includes any bivariate tests you conducted prior to building a model 
     + Explains the type of statistical model used and why it is appropriate for your research question and data set
-        + The model *must* be linear regression, logistic regression, or ANOVA 
+        + The model *must* be linear regression or logistic regression 
     + The statistical model results  
     + Model fit 
     + Model significance 

@@ -316,7 +316,7 @@ BEFORE CLASS:
 * Read Harris Chapter 2 through section 2.7.1.1 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
     + Data types https://youtu.be/lHSYCc3faCI
-    + Making a basic frequency table with `table()` https://youtu.be/5t8emqtUxLQ
+    + Making a basic frequency table with `table()` https://youtu.be/RvioooGVkqQ
     + Making a frequency table with `freq()` or `tidyverse` https://youtu.be/e_o9qKgY3YU
     + Intro to mean, median, mode https://youtu.be/M1pmYbZw63g
     + Messy data and mean, median, mode https://youtu.be/vjOM7gbjMls

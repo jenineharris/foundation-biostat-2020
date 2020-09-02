@@ -367,6 +367,7 @@ BEFORE CLASS:
 * Watch Chapter 3 videos (as needed)
     + Plots for two categorical variables https://youtu.be/rbufQOkMKp0
     + Plots for one categorical and one continuous variable https://youtu.be/f2_04owTHSQ
+    + Plots for two continuous variables https://youtu.be/GGmcAvVWEag
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
 * Obtain materials for Statistics in the Wild project and make a plan 
 

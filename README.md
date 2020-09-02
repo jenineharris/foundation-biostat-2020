@@ -20,7 +20,7 @@
 
 ### Teaching assistant: Laura Brugger 
 * email: laura.brugger@wustl.edu 
-* student hours: Mondays noon-1pm & Wednesdays 9-10am & last hour of scheduled class time 
+* student hours: Mondays noon-1pm & Wednesdays 8-9am & last hour of scheduled class time 
 * student hours location: Zoom room 261 526 2045
 
 ### I.	COURSE DOMAIN AND BOUNDARIES

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3 Exercises: Hacker Edition"
+title: "Chapter 2-3 Exercises: Coder Edition"
 author: "Jenine Harris"
 date: "8/22/2020"
 output: html_document

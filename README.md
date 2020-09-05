@@ -207,7 +207,7 @@ The highest threshold you reach will be your earned grade:
 
 #### Graded components of the course
 
-**Statistics in the wild (15%)**
+**Statistics in the wild (15%)** (Due December 3)
 
 Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score.
 
@@ -225,13 +225,13 @@ Statistics in the Wild projects will be graded as complete (100), partial (70), 
 
 All options meet at least one competency depending on what the student selects and their approach.
 
-**Book club (10%)** 
+**Book club (10%)** (Held December 3)
 
 For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity can be during class time, or on the Discussion Board during the week of book club. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know your team preference for: (1) doing a "live" via zoom activity or discussion, or (2) doing a Discussion Board activity or discussion so she can alert your classmates. 
 
 Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is also part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
-**Midterm + final project (70%)**
+**Midterm (Due October 15) + final project (70%) (Due December 10)**
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board twice, once as a midterm project and once as a final project. 
 

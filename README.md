@@ -387,6 +387,7 @@ BEFORE CLASS:
 * Watch Chapter 4 videos (as needed)
     + Binomial probability distributions https://youtu.be/XwDyg7zx3jA
     + Normal distribution https://youtu.be/duC2MbFzU54
+    + z-scores https://youtu.be/JS5hlqPM1F4
 * Read Criado-Perez Chapters 6 & 7 (optional/recommended) 
 * Find midterm/final project data (optional/recommended)
 

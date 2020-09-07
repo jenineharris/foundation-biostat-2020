@@ -385,6 +385,7 @@ BEFORE CLASS:
 * Complete Chapter 3 exercises 
 * Read Harris Chapter 4 
 * Watch Chapter 4 videos (as needed)
+    + Binomial probability distributions https://youtu.be/HcgWRmJZPTs
 * Read Criado-Perez Chapters 6 & 7 (optional/recommended) 
 * Find midterm/final project data (optional/recommended)
 

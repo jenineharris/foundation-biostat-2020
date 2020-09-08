@@ -389,6 +389,7 @@ BEFORE CLASS:
     + Normal distribution https://youtu.be/duC2MbFzU54
     + z-scores https://youtu.be/JS5hlqPM1F4
     + Samples to populations https://youtu.be/kIM_xHTtlfU
+    + Confidence intervals https://youtu.be/qKbf7suSKcI
 * Read Criado-Perez Chapters 6 & 7 (optional/recommended) 
 * Find midterm/final project data (optional/recommended)
 

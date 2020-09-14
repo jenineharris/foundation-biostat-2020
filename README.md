@@ -411,6 +411,7 @@ BEFORE CLASS:
 * Complete Chapter 4 exercises 
 * Read Harris Chapter 5 
 * Watch Chapter 5 videos (as needed)
+    + Descriptives and graphs for 2 categorical variables https://youtu.be/1MFMMkg0fjg
 * Read Criado-Perez Chapter 8 (optional/recommended) 
 * Work on midterm project (optional/recommended)
 

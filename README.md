@@ -413,6 +413,7 @@ BEFORE CLASS:
 * Watch Chapter 5 videos (as needed)
     + Descriptives and graphs for 2 categorical variables https://youtu.be/1MFMMkg0fjg
     + Observed and expected values https://youtu.be/oP3NWwgD3YA
+    + Computing the chi-squared stat https://youtu.be/WxNbmmavQrI
 * Read Criado-Perez Chapter 8 (optional/recommended) 
 * Work on midterm project (optional/recommended)
 

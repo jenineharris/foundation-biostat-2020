@@ -414,6 +414,8 @@ BEFORE CLASS:
     + Descriptives and graphs for 2 categorical variables https://youtu.be/1MFMMkg0fjg
     + Observed and expected values https://youtu.be/oP3NWwgD3YA
     + Computing the chi-squared stat https://youtu.be/WxNbmmavQrI
+    + Interpreting the chi-squared stat https://youtu.be/gFS98wJa19I
+    + Null hypothesis significant testing https://youtu.be/YLyHqJ5EECE
 * Read Criado-Perez Chapter 8 (optional/recommended) 
 * Work on midterm project (optional/recommended)
 

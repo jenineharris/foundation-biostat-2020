@@ -415,7 +415,9 @@ BEFORE CLASS:
     + Observed and expected values https://youtu.be/oP3NWwgD3YA
     + Computing the chi-squared stat https://youtu.be/WxNbmmavQrI
     + Interpreting the chi-squared stat https://youtu.be/gFS98wJa19I
-    + Null hypothesis significant testing https://youtu.be/YLyHqJ5EECE
+    + Null hypothesis significance testing https://youtu.be/YLyHqJ5EECE
+    + Standardized residuals https://youtu.be/4HlIA3rUUUA
+    + Effect sizes https://youtu.be/GohU8H857Mw
 * Read Criado-Perez Chapter 8 (optional/recommended) 
 * Work on midterm project (optional/recommended)
 

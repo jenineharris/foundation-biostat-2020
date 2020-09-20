@@ -455,6 +455,7 @@ BEFORE CLASS:
 * Post midterm project to discussion board, include a very brief description of the project and attach or link your R Markdown and data files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
+    + Graphs and descriptive stats https://youtu.be/ycTJCN1_NQc
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
 
 **Alternate readings if no access to Harris Chapter 6:**

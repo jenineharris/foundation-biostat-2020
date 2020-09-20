@@ -456,6 +456,7 @@ BEFORE CLASS:
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
     + Graphs and descriptive stats https://youtu.be/ycTJCN1_NQc
+    + One sample t-test https://youtu.be/X6ynwmGDDQ4
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
 
 **Alternate readings if no access to Harris Chapter 6:**

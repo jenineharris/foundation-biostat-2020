@@ -460,6 +460,7 @@ BEFORE CLASS:
     + Independent samples t-test https://youtu.be/KuCdWWrX2As
     + Dependent samples t-test https://youtu.be/NSfIUMagOJw
     + Effect sizes for t-tests https://youtu.be/7wzPwAvKmO8
+    + Assumptions for t-tests https://youtu.be/d6OaLyo0Ktc
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
 
 **Alternate readings if no access to Harris Chapter 6:**

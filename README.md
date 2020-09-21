@@ -458,6 +458,7 @@ BEFORE CLASS:
     + Graphs and descriptive stats https://youtu.be/ycTJCN1_NQc
     + One sample t-test https://youtu.be/X6ynwmGDDQ4
     + Independent samples t-test https://youtu.be/KuCdWWrX2As
+    + Dependent samples t-test https://youtu.be/NSfIUMagOJw
 * Read Criado-Perez Chapters 9 & 10 (optional/recommended) 
 
 **Alternate readings if no access to Harris Chapter 6:**

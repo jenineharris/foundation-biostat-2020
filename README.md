@@ -484,6 +484,7 @@ BEFORE CLASS:
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
     + Exploratory data analysis for ANOVA https://youtu.be/0RBLJcbuTCg
+    + Conducting ANOVA https://youtu.be/l1HzOJ6hBEU
 
 **Alternate readings if no access to Harris:** 
 

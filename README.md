@@ -485,6 +485,9 @@ BEFORE CLASS:
 * Watch Chapter 7 videos (as needed)
     + Exploratory data analysis for ANOVA https://youtu.be/0RBLJcbuTCg
     + Conducting ANOVA https://youtu.be/l1HzOJ6hBEU
+    + Post-hoc tests and planned comparisons https://youtu.be/dr4CAi1LxJA
+    + Effect sizes for ANOVA https://youtu.be/UrVmtRkrEqI
+    + ANOVA assumptions https://youtu.be/1nXXt0YV6Hg
 
 **Alternate readings if no access to Harris:** 
 

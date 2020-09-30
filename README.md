@@ -488,6 +488,8 @@ BEFORE CLASS:
     + Post-hoc tests and planned comparisons https://youtu.be/dr4CAi1LxJA
     + Effect sizes for ANOVA https://youtu.be/UrVmtRkrEqI
     + ANOVA assumptions https://youtu.be/1nXXt0YV6Hg
+    + Alternative tests when assumptions fail https://youtu.be/gT8WzeR2MSU
+    + Two-way ANOVA https://youtu.be/dlUKCjPcs4A
 
 **Alternate readings if no access to Harris:** 
 

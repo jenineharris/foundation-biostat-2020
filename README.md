@@ -475,7 +475,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Time to work on: (third hour)
      + Chapter 6 exercises (coder or hacker; RMD will be available on GitHub)
 
-## Week 9 (October 22): Bivariate for one binary categorical and one continuous variable  
+## Week 9 (October 22): Bivariate for one multi-category (3+) categorical and one continuous variable  
 
 BEFORE CLASS:
 

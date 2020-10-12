@@ -510,6 +510,7 @@ BEFORE CLASS:
 * Read Harris Chapter 8 
 * Watch Chapter 8 videos (as needed)
     + Exploratory data analysis https://youtu.be/iXXWrWE1I80
+    + Covariance and correlation https://youtu.be/5zjygFIM1dM
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

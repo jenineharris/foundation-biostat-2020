@@ -509,6 +509,7 @@ BEFORE CLASS:
 * Complete Chapter 7 exercises 
 * Read Harris Chapter 8 
 * Watch Chapter 8 videos (as needed)
+    + Exploratory data analysis https://youtu.be/iXXWrWE1I80
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

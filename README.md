@@ -514,6 +514,8 @@ BEFORE CLASS:
     + Correlation NHST https://youtu.be/UD2Qe2xRn58
     + Correlation effect size https://youtu.be/nBHwbAK18dc
     + Correlation assumption checking https://youtu.be/_oVjcsU1s-E
+    + Using transformations https://youtu.be/N7IQeX1nGE4
+    + Spearman's rho https://youtu.be/bO6ZCpkJQfo
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

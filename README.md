@@ -511,6 +511,9 @@ BEFORE CLASS:
 * Watch Chapter 8 videos (as needed)
     + Exploratory data analysis https://youtu.be/iXXWrWE1I80
     + Covariance and correlation https://youtu.be/5zjygFIM1dM
+    + Correlation NHST https://youtu.be/UD2Qe2xRn58
+    + Correlation effect size https://youtu.be/nBHwbAK18dc
+    + Correlation assumption checking https://youtu.be/_oVjcsU1s-E
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

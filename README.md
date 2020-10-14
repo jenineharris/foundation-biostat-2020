@@ -516,6 +516,7 @@ BEFORE CLASS:
     + Correlation assumption checking https://youtu.be/_oVjcsU1s-E
     + Using transformations https://youtu.be/N7IQeX1nGE4
     + Spearman's rho https://youtu.be/bO6ZCpkJQfo
+    + Partial correlation https://youtu.be/7FDWQgF_j0g
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

@@ -538,6 +538,11 @@ BEFORE CLASS:
 * Complete Chapter 8 exercises 
 * Read Harris Chapter 9 
 * Watch Chapter 9 videos (as needed)
+    + Linear regression exploratory data analysis https://youtu.be/dSfek9iVsos
+    + Computing the slope and intercept https://youtu.be/vpg32XCGurc
+    + Slope value, significance, and CI https://youtu.be/KvOsMRz3Qaw
+    + Model significance and model fit https://youtu.be/73sinb00veo
+    + Assumptions and diagnostics https://youtu.be/BS1QM8D0ZyI
 * Read Criado-Perez Chapter 13 and meet with book club group to plan (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

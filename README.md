@@ -543,6 +543,7 @@ BEFORE CLASS:
     + Slope value, significance, and CI https://youtu.be/KvOsMRz3Qaw
     + Model significance and model fit https://youtu.be/73sinb00veo
     + Assumptions and diagnostics https://youtu.be/BS1QM8D0ZyI
+    + Adding more variables to the model https://youtu.be/eApd3nXK5Fk
 * Read Criado-Perez Chapter 13 and meet with book club group to plan (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 

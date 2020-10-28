@@ -565,6 +565,16 @@ BEFORE CLASS:
 * Complete Chapter 9 exercises 
 * Read Harris Chapter 10 
 * Watch Chapter 10 videos (as needed)
+    + Exploratory data analysis https://youtu.be/Waqt9HyjlaE
+    + The logistic model https://youtu.be/gkvLRnXzXZY
+    + Estimate a simple model https://youtu.be/gyMDVvSRauI
+    + Model fit https://youtu.be/ZFQWZtbbmHc
+    + Larger logistic models https://youtu.be/8VMrb87PANQ
+    + Interpreting odds ratios https://youtu.be/s5SwecUxWRE
+    + Assumptions and diagnostics https://youtu.be/5-9sA3tAcZ0
+    + Predicted probabilities https://youtu.be/TX8eqKEX4T0
+    + Interaction terms https://youtu.be/O_YZ6RvCnj0
+    + Comparing models https://youtu.be/xabMmHPonbc
 * Review feedback from midterm (optional/recommended)
 * Work on Statistics in the Wild (optional/recommended)
 

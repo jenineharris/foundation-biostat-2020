@@ -111,7 +111,7 @@ While on campus, it is imperative that students follow all public health guideli
 There are 2 course books:
 
 (1) Statistics with R: Solving Problems Using Real-World Data (Jenine K. Harris)
-(2) Invisible Women: Data Bios in a World Designed for Men (Caroline Criado-Perez)
+(2) Invisible Women: Data Bias in a World Designed for Men (Caroline Criado-Perez)
 
 The options for obtaining free versions of the planned course book are limited by the new structures keeping us all safe in the pandemic (limited course reserves and library access), so there are now 2 options for course readings. While the main book is now *optional*, it remains highly preferred for use in the course. I have a number of options to make the for-purchase book less expensive if you want to do this option. 
 

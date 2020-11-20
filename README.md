@@ -624,20 +624,20 @@ DURING CLASS TIME (attendance may be required, to be determined):
 
 BEFORE CLASS: 
 
-* Post your video to the Final Project discussion board, include your Markdown file (or a link to it) and any other files needed to re-run the analyses. 
+* Post your project to the Final Project discussion board, include your Markdown file (or a link to it) and any other files needed to re-run the analyses. Adding a brief video (5-10 minutes) about your project is recommended **but not required**. 
 
 DURING CLASS TIME: 
 
-* For the first 90 minutes of class, watch *at least* 5 videos of your choice posted on the Final Project thread on the discussion board by other students. You do not need to login to the course zoom to do this, just go directly to Canvas. As you watch each video, pay attention to the topic, data source, analysis choices, visual displays of data, results, interpretation, and implications. 
+* For the first 90 minutes of class, review *at least* 3 projects of your choice posted on the Final Project thread on the discussion board by other students. You do not need to login to the course zoom to do this, just go directly to Canvas. As you review each project, pay attention to the topic, data source, analysis choices, visual displays of data, results, interpretation, and implications. 
 
-* For each video you watch, add something to the discussion board about the project. Keep in mind these are your colleagues who can greatly benefit from your thoughts, especially if they are **constructive** (a comment like "this is great!" or "this sucks!" is not very helpful, please be specific about what is great). Some things you could add:
+* For each project you review, add something to the discussion board about the project. Keep in mind these are your colleagues who can greatly benefit from your thoughts, especially if they are **constructive** (a comment like "this is great!" or "this sucks!" is not very helpful, please be specific about what is great). Some things you could add:
     + A question about the project 
     + A compliment about something specific in the project 
     + A constructive criticism to help your colleague improve their project 
     + A response to another discussion board post about the same project  
     
 * For the next 30 minutes of class: 
-    + Review the discussion of your video and respond to at least 3 of the discussion points
+    + Review the discussion of your project and respond to at least 3 of the discussion points
     + Go back to discussions you contributed to and see how the discussion is unfolding, contribute if you have more to add 
     + Leave the Final Project discussion thread and read 2 of the Statistics in the Wild discussion posts from your classmates, add your thoughts to each one you read  
     
